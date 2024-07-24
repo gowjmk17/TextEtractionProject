@@ -1,0 +1,52 @@
+Invoice /4: 4557392
+Date : June 20 2024
+ID
+2
+3
+4
+INVOICE
+Bill To
+XYZ Consulting Pvt Ltd
+440, Shakthi Nagar,
+Gopalpura Bypass Road,
+Jaipur Rajasthan
+GST : AAAAXXXX444
+Bill From
+dolorem Services PIA LTD
+Plot No 3&4, 251 Floor
+SIRI Towers, Founts Avenue
+Thoraipakkam,
+Chennai — 500037
+GSTIN: AAAXXXX444
+PAN NO : XXXXOWE44
+Description
+Dell Laptop
+HP Laptop
+Monitors
+Keyboard
+IGST @18%
+1
+2
+3
+2
+PLEASE MAKE PAYMENT TO
+Price In Tel
+10000 10000
+30000 60000
+10000 30000
+1000 2000
+1800 1800
+TOTAL 103800
+Beneficiary Name
+Beneficiary Account
+Number
+Bank Name and Address HDFC Bank Ltd
+No. 8, Rajendra Prasad Road,
+: Ws. dolorem Services Pvt LTD
+:1111111111
+Bank Swift Code
+IFSC Code
+Nehru Nagar, Chrompet
+Chennai - 600044
+: HDFCINBBCHE
+: HDFC0000260
