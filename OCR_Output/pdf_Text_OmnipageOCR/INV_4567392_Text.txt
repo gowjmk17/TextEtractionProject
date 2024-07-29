@@ -1,0 +1,39 @@
+MOM,.
+4.0
+INVOICE
+Invoice #: 4567392
+Date : June 20 2024
+Bill To
+XYZ Consulting Pvt Ltd
+440, Shakthi Nagar,
+Gopalpura Bypass Road,
+Jaipur Rajasthan
+GST : AAAAXXXX444
+Bill From
+dolorem Services Pvt LTD
+Plot No 3&4, 2nd Floor
+SIRI Towers, Fourrts Avenue
+Thoraipakkam,
+Chennai — 600097
+GSTIN: AAAXXXX444
+PAN NO : XXXXQWE44
+—  ID Description Qty Price In Total INR.
+1 Dell Laptop 1 10000 10000
+2 HP Laptop 2 30000 60000 30000 2000 1800
+3 Monitors 3 10000
+4 Keyboard 2 1000
+IGST @18% 1800
+TOTAL 103800
+PLEASE MAKE PAYMENT TO
+Beneficiary Name
+Beneficiary Account
+Number
+Bank Name and Address
+: M/s. dolorem Services Pvt LTD
+:4444444444
+: HDFC Bank Ltd
+No. 8, Rajendra Prasad Road,
+Nehru Nagar, Chrompet
+Chennai - 600044
+Bank Swift Code : HDFCINBBCHE
+IFSC Code : HDFC0000260

@@ -1,0 +1,31 @@
+INVOICE
+Invoice #: 242500011 Bill To Bill From
+Date        : July 01 2024 XYZ Consulting Pvt Ltd ABC Services Pvt LTD
+440,  Shakthi Nagar,
+Gopalpura Bypass Road, Plot No 3&4, 2 nd Floor
+Jaipur Rajasthan
+GST : XXXXAAAAXXX SIRI Towers, Fourrts Avenue
+Thoraipakkam,
+Chennai – 600097
+GSTIN: AAAXXXXAAAA
+PAN NO : XXXXQWESA
+
+ID Description Qty Price In Total
+INR.
+
+1 Dell Laptop 1 10000 10000
+
+IGST @18% 1800 1800
+
+TOTAL 11800
+
+PLEASE MAKE PAYMENT TO
+Beneficiary Name : M/s. ABC Services Pvt LTD
+Beneficiary Account : 555555555555
+Number
+Bank Name and Address : HDFC Bank Ltd
+No. 8, Rajendra Prasad Road,
+Nehru Nagar, Chrompet
+Chennai - 600044
+Bank Swift Code : HDFCINBBCHE
+IFSC Code : HDFC0000260

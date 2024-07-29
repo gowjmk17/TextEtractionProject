@@ -1,0 +1,38 @@
+﻿MOM,.
+4.0
+INVOICE
+Invoice #: 9874657
+Date : May 11 2024
+Bill To
+XYZ Consulting Pvt Ltd
+440, Shakthi Nagar,
+Gopalpura Bypass Road,
+Jaipur Rajasthan
+GST : AAAAXXXX333
+Bill From
+Ipsum Services Pvt LTD
+Plot No 3&4, 2nd Floor
+SIRI Towers, Fourrts Avenue
+Thoraipakkam,
+Chennai — 600097
+GSTIN: AAAXXXX333
+PAN NO : XXXXQWE33
+—  ID Description Qty Price In Total I NR.
+1 Dell Laptop 1 10000 10000
+2 HP Laptop 2 30000 60000
+3 Monitors 3 10000 30000
+IGST @18% 1800 1800
+TOTAL 101800
+PLEASE MAKE PAYMENT TO
+Beneficiary Name
+Beneficiary Account
+Number
+Bank Name and Address
+: M/s. Ipsum Services Pvt LTD
+3333333333
+: HDFC Bank Ltd
+No. 8, Rajendra Prasad Road,
+Nehru Nagar, Chrompet
+Chennai - 600044
+Bank Swift Code : HDFCINBBCHE
+IFSC Code : HDFC0000260

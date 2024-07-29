@@ -1,0 +1,15 @@
+Input: 	1. Format 1 - Computer generated PDF 	2. Format 1 - Scanned PDF 	3. Format 1 - Scanned Image 	 	 Robot Flow: Step 1 : Get all the files from Input folder. Step 2 : Check if file is PDF 			True 			2.1 -> Check if PDF is Computer Generated 				True (Will be able to use selectors) 				2.1.1 -> Check if PDF is Format 1 (Use a anchor text to determine if it's Format 1) 					True 					Extract data (Convert to text file using OCR and extract data) 					False 					Throw exception as not handled Format 				 				False (Not able to use selectors) 				2.1.2 -> Check if Scanned PDF is Format 1 (Use a anchor text to determine if it's Format 1) 					True 					Extract data (Convert to text file using OCR and extract data) 					False 					Throw exception as not handled Format 			False 			2.2 -> Check if image is Format 1 (Use a anchor text to determine if it's Format 1) 				True 				Extract data (Convert to text file using OCR and extract data) 				False 				Throw exception as not handled Format Step 3 : Update to excel file with extracted data and status
+
+Output
+
+Excel Columns:
+1. Status (SUCCESS|FAILED)
+2. Remarks (If Status iss FAILED -> Invalid format | File not able to read using OCR | Data extraction failed)
+3. FilePath
+4. InvoiceNo
+5. InvoiceDate
+6. BillTo
+7. BillToAddress
+8. BillFrom
+9. BillFromAddress
+10. TotalAmount

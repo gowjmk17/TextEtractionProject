@@ -1,0 +1,55 @@
+07/25/2024 13:17:11 => [Debug] Execution started for file: ExtractTextFromPDF
+07/25/2024 13:17:12 => [Debug] Cannot send /track/transaction/start request to Automation Tracker server. Exception: No such host is known. (cloud.uipath.com:443)
+07/25/2024 13:17:12 => [Debug] Cannot send /track/operation/start request to Automation Tracker server. Exception: No such host is known. (cloud.uipath.com:443)
+07/25/2024 13:17:12 => [Info] TextExtraction_Demo execution started
+
+07/25/2024 13:17:15 => [Debug] Read JPEG File
+07/25/2024 13:17:22 => [Debug] File name: INV_23456743.jpeg| Status: Success| Invoice no:  23456743  | Date:  July 08 2024| Total: 71800
+07/25/2024 13:17:23 => [Debug] Read Scanned PDF File
+07/25/2024 13:17:28 => [Debug] File name: INV_23456743_IMG.pdf| Status: Success| Invoice no:  23456743
+Date : July 08 2024
+ | Date:  July 08 2024| Total:
+07/25/2024 13:17:29 => [Debug] Read Computer PDF File
+07/25/2024 13:17:32 => [Debug] File name: INV_23456743_Text.pdf| Status: Success| Invoice no:  23456743
+Date : July 08 2024
+ | Date:  July 08 2024| Total: 71800
+
+07/25/2024 13:17:32 => [Debug] Read JPEG File
+07/25/2024 13:17:35 => [Debug] File name: INV_242500011.jpeg| Status: Success| Invoice no:  242500011  | Date:  July 01 2024| Total: 11800
+07/25/2024 13:17:35 => [Debug] Read Scanned PDF File
+07/25/2024 13:17:39 => [Debug] File name: INV_242500011_IMG.pdf| Status: Success| Invoice no:  242500011  | Date:  July 01 2024| Total: 11800
+07/25/2024 13:17:39 => [Debug] Read Computer PDF File
+07/25/2024 13:17:43 => [Debug] File name: INV_242500011_Text.pdf| Status: Success| Invoice no:  242500011
+Date : July 01 2024
+ | Date:  July 01 2024| Total:
+
+07/25/2024 13:17:43 => [Debug] Read JPEG File
+07/25/2024 13:17:45 => [Debug] File name: INV_4567392.jpeg| Status: Success| Invoice no: 4567392  | Date:  June 20 2024| Total: 103800
+07/25/2024 13:17:45 => [Debug] Read Scanned PDF File
+07/25/2024 13:17:49 => [Debug] File name: INV_4567392_IMG.pdf| Status: Success| Invoice no:  | Date:  June 20 2024| Total: 103800
+07/25/2024 13:17:49 => [Debug] Read Computer PDF File
+07/25/2024 13:17:52 => [Debug] File name: INV_4567392_Text.pdf| Status: Success| Invoice no:  4567392
+Date : June 20 2024
+ | Date:  June 20 2024| Total: 103800
+
+07/25/2024 13:17:52 => [Debug] Read JPEG File
+07/25/2024 13:17:54 => [Debug] File name: INV_7456374.jpeg| Status: Success| Invoice no:  7456374  | Date: July 20 2024| Total: 103800
+07/25/2024 13:17:54 => [Debug] Read Computer PDF File
+07/25/2024 13:17:57 => [Debug] File name: INV_7456374_IMG.pdf| Status: Success| Invoice no:  7456374  | Date:  July 20| Total: 103800
+07/25/2024 13:17:57 => [Debug] Read Computer PDF File
+07/25/2024 13:17:59 => [Debug] File name: INV_7456374_Text.pdf| Status: Success| Invoice no:  7456374  | Date:  July 20| Total: 103800
+
+07/25/2024 13:17:59 => [Debug] Read JPEG File
+07/25/2024 13:18:01 => [Debug] File name: INV_9874657.jpeg| Status: Success| Invoice no:  9874657  | Date:  May 11 2024| Total: 101800
+07/25/2024 13:18:01 => [Debug] Read Scanned PDF File
+07/25/2024 13:18:05 => [Debug] File name: INV_9874657_IMG.pdf| Status: Success| Invoice no:  9874657
+Date : May 11 2024
+ | Date:  May 11 2024| Total:
+07/25/2024 13:18:05 => [Debug] Read Computer PDF File
+07/25/2024 13:18:07 => [Debug] File name: INV_9874657_Text.pdf| Status: Success| Invoice no:  9874657
+Date : May 11 2024
+ | Date:  May 11 2024| Total: 101800
+
+07/25/2024 13:18:10 => [Debug] Cannot send /track/operation/end request to Automation Tracker server. Exception: No such host is known. (cloud.uipath.com:443)
+07/25/2024 13:18:10 => [Debug] Cannot send /track/transaction/end request to Automation Tracker server. Exception: No such host is known. (cloud.uipath.com:443)
+07/25/2024 13:18:10 => [Info] TextExtraction_Demo execution ended in: 00:00:58

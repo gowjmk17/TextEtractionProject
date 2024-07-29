@@ -1,0 +1,44 @@
+INVOICE
+Invoice #: 23456743
+Date : July 08 2024
+Bill To
+XYZ Consulting Pvt Ltd
+440, Shakthi Nagar,
+Gooalpura Bypass Road,
+Jaipur Rajasthan
+GST : AAAAXXXX222
+Bill From
+Lorem Services Pvt LTD
+Plot No 3&4, el Floor
+SIRI Towers, Fourrts Avenue
+Thoraipakkam,
+Chennai —600097
+GSTIN: AAAXXXX222
+PAN NO : XXXXCIWE22
+1
+Dell Laptop
+1
+10000
+10000
+2
+HP Laptop
+IGST @18%
+2
+30000
+1800
+TOTAL
+60000
+1800
+71800
+PLEASE MAKE PAYMENT TO
+Beneficiary Name
+Beneficiary Account
+Number
+Bank Name and Address HDFC Bank Ltd
+No. S, Rajendra Prasad Road,
+Nehru Nagar, Chrompet
+Chennai - 600044
+Bank Swift Code : HDFCINBBCHE
+IFSC Code : HDFC0000260
+: M/s. Lorem Services Pvt LTD
+:22222222222

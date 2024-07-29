@@ -1,0 +1,35 @@
+07/25/2024 20:40:11 => [Debug] Execution started for file: ExtractTextFromPDF
+07/25/2024 20:40:16 => [Info] TextExtraction_Demo execution started
+07/25/2024 20:40:19 => [Debug] Read JPEG File
+07/25/2024 20:40:26 => [Debug] File name: INV_23456743.jpeg| Status: Success| Invoice no: Invoice #: 23456743 | Date: Date : July 08 2024| Total: : 23456743
+07/25/2024 20:40:26 => [Debug] Read Scanned PDF File
+07/25/2024 20:40:31 => [Debug] File name: INV_23456743_IMG.pdf| Status: Success| Invoice no: Invoice #: 23456743 | Date: Date : July 08 2024| Total: : 23456743
+07/25/2024 20:40:31 => [Debug] Read Computer PDF File
+07/25/2024 20:40:34 => [Debug] File name: INV_23456743_Text.pdf| Status: Success| Invoice no: Invoice #: 23456743 | Date: Date : July 08 2024| Total: : 23456743
+07/25/2024 20:40:34 => [Debug] Read JPEG File
+07/25/2024 20:40:36 => [Debug] File name: INV_242500011.jpeg| Status: Success| Invoice no: Invoice #: 242500011 | Date: Date : July 01 2024| Total: : 242500011
+07/25/2024 20:40:36 => [Debug] Read Scanned PDF File
+07/25/2024 20:40:39 => [Debug] File name: INV_242500011_IMG.pdf| Status: Success| Invoice no: Invoice #: 242500011 | Date: Date : July 01 2024| Total: : 242500011
+07/25/2024 20:40:39 => [Debug] Read Computer PDF File
+07/25/2024 20:40:42 => [Debug] File name: INV_242500011_Text.pdf| Status: Success| Invoice no: Invoice #: 242500011 | Date: Date : July 01 2024| Total: : 242500011
+07/25/2024 20:40:42 => [Debug] Read JPEG File
+07/25/2024 20:40:43 => [Debug] File name: INV_4567392.jpeg| Status: Success| Invoice no:  | Date: Date : June 20 2024| Total:  440
+07/25/2024 20:40:43 => [Debug] Read Scanned PDF File
+07/25/2024 20:40:47 => [Debug] File name: INV_4567392_IMG.pdf| Status: Success| Invoice no:  | Date: Date : June 20 2024| Total: : 4557392
+07/25/2024 20:40:47 => [Debug] Read Computer PDF File
+07/25/2024 20:40:49 => [Debug] File name: INV_4567392_Text.pdf| Status: Success| Invoice no: Invoice #: 4567392 | Date: Date : June 20 2024| Total: 
+4
+07/25/2024 20:40:49 => [Debug] Read JPEG File
+07/25/2024 20:40:51 => [Debug] File name: INV_7456374.jpeg| Status: Success| Invoice no: Invoice #: 7456374 | Date: | Total: : 7456374
+07/25/2024 20:40:51 => [Debug] Read Computer PDF File
+07/25/2024 20:40:53 => [Debug] File name: INV_7456374_IMG.pdf| Status: Success| Invoice no: Invoice #: 7456374 | Date: | Total: : 7456374
+07/25/2024 20:40:53 => [Debug] Read Computer PDF File
+07/25/2024 20:40:55 => [Debug] File name: INV_7456374_Text.pdf| Status: Success| Invoice no: Invoice #: 7456374 | Date: | Total: : 7456374
+07/25/2024 20:40:55 => [Debug] Read JPEG File
+07/25/2024 20:40:57 => [Debug] File name: INV_9874657.jpeg| Status: Success| Invoice no: Invoice #: 9874657 | Date: Date : May 11 2024| Total: : 9874657
+07/25/2024 20:40:57 => [Debug] Read Scanned PDF File
+07/25/2024 20:41:00 => [Debug] File name: INV_9874657_IMG.pdf| Status: Success| Invoice no: Invoice #: 9874657 | Date: Date : May 11 2024| Total: : 9874657
+07/25/2024 20:41:00 => [Debug] Read Computer PDF File
+07/25/2024 20:41:02 => [Debug] File name: INV_9874657_Text.pdf| Status: Success| Invoice no: Invoice #: 9874657 | Date: Date : May 11 2024| Total: 
+4
+07/25/2024 20:41:03 => [Info] TextExtraction_Demo execution ended in: 00:00:47

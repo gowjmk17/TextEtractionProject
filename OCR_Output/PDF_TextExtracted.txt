@@ -1,0 +1,28 @@
+INVOICEs
+Invoice #: 7456374 Bill To: XYZ Consulting Pvt Ltd Bill From: Envita Services Pvt LTD
+Date: July 20 2024 440, Shakthi Nagar, Gopalpura Bypass Road, Jaipur Rajasthan GST : AAAAXXXX555 Plot No 3&4, rd Floor SIRI Towers, Fourrts Avenue Thoraipakkam, Chennai — 600097
+GSTIN: AAAXXXX555
+PAN NO : XXXXQWE55
+ID Description Category Qty Price In Total INR.
+1 Dell Laptop LPT 1 10000 10000
+2 HP Laptop LPT 2 30000 60000
+3 Monitors MTR 3 10000 30000
+4 Keyboard KB 2 1000 2000
+IGST @18% 1800 1800
+TOTAL 103800
+PLEASE MAKE PAYMENT TO
+Beneficiary Name
+Beneficiary Account
+Number
+Bank Name and
+Address
+Bank Swift Code
+IFSC Code
+: M/s. Envita Services Pvt LTD
+:555555555
+: HDFC Bank Ltd
+No. 8, Rajendra Prasad Road,
+Nehru Nagar, Chrompet
+Chennai - 600044
+: HDFCINBBCHE
+: HDFC0000260
