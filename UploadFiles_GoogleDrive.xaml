@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="GoogleWorksapce_Sequence" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="580,508" sap2010:WorkflowViewState.IdRef="GoogleWorksapce_Sequence_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:uga="clr-namespace:UiPath.GSuite.Activities;assembly=UiPath.GSuite.Activities" xmlns:ugade="clr-namespace:UiPath.GSuite.Activities.Drive.Enums;assembly=UiPath.GSuite.Activities" xmlns:ugam="clr-namespace:UiPath.GSuite.Activities.Models;assembly=UiPath.GSuite.Activities" xmlns:upr="clr-namespace:UiPath.Platform.ResourceHandling;assembly=UiPath.Platform" xmlns:usau="clr-namespace:UiPath.Shared.Activities.Utils;assembly=UiPath.GSuite.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="GoogleWorksapce_Sequence" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="609,610" sap2010:WorkflowViewState.IdRef="GoogleWorksapce_Sequence_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:uga="clr-namespace:UiPath.GSuite.Activities;assembly=UiPath.GSuite.Activities" xmlns:ugade="clr-namespace:UiPath.GSuite.Activities.Drive.Enums;assembly=UiPath.GSuite.Activities" xmlns:ugam="clr-namespace:UiPath.GSuite.Activities.Models;assembly=UiPath.GSuite.Activities" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:upr="clr-namespace:UiPath.Platform.ResourceHandling;assembly=UiPath.Platform" xmlns:usau="clr-namespace:UiPath.Shared.Activities.Utils;assembly=UiPath.GSuite.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -124,7 +124,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="UploadFiles_GoogleDrive" sap:VirtualizedContainerService.HintSize="496,428" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="UploadFiles_GoogleDrive" sap:VirtualizedContainerService.HintSize="496,545" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="folderID" />
       <Variable x:TypeArguments="x:String" Name="uploadReport" />
@@ -142,7 +142,7 @@
         <InArgument x:TypeArguments="x:String">Output\InvoiceReport.xlsx</InArgument>
       </Assign.Value>
     </Assign>
-    <uga:UploadFilesConnections AllResults="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" DestinationFolder="{x:Null}" FirstResult="{x:Null}" FolderIdBackup="{x:Reference __ReferenceID0}" ManualFolderId="{x:Null}" MultipleFilesToUpload="{x:Null}" OverwriteExistingFile="{x:Null}" SingleFileToUpload="{x:Null}" AuthScopesInvalid="False" BrowseFolderId="https://drive.google.com/drive/folders/1L7RCP7e_BD_dztLYT4zItRP8BdGtDkU7" ConflictResolution="Replace" ConnectionId="3f7e9605-2353-4bf5-8d43-bada046e9b3a" Convert="False" DisplayName="Upload Files" FilesInputMode="MultipleByBuilder" FolderInputMode="Browse" sap:VirtualizedContainerService.HintSize="434,226" sap2010:WorkflowViewState.IdRef="UploadFilesConnections_3" SaveToFolderName="UiPath" UseConnectionService="True">
+    <uga:UploadFilesConnections AllResults="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" DestinationFolder="{x:Null}" FirstResult="{x:Null}" FolderIdBackup="{x:Reference __ReferenceID0}" ManualFolderId="{x:Null}" MultipleFilesToUpload="{x:Null}" OverwriteExistingFile="{x:Null}" SingleFileToUpload="{x:Null}" AuthScopesInvalid="False" BrowseFolderId="https://drive.google.com/drive/folders/1L7RCP7e_BD_dztLYT4zItRP8BdGtDkU7" ConflictResolution="Replace" ConnectionId="3f7e9605-2353-4bf5-8d43-bada046e9b3a" Convert="False" DisplayName="Upload Files" FilesInputMode="MultipleByBuilder" FolderInputMode="Browse" sap:VirtualizedContainerService.HintSize="434,235" sap2010:WorkflowViewState.IdRef="UploadFilesConnections_3" SaveToFolderName="UiPath" UseConnectionService="True">
       <uga:UploadFilesConnections.FilesBackup>
         <usau:BackupSlot x:TypeArguments="ugade:FilesInputMode" StoredValue="MultipleByBuilder">
           <usau:BackupSlot.BackupValues>
@@ -174,5 +174,6 @@
         </ugam:DriveItemArgument>
       </uga:UploadFilesConnections.Folder>
     </uga:UploadFilesConnections>
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="434,108" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;New Record Updated in Invoice Report&quot;]" />
   </Sequence>
 </Activity>
