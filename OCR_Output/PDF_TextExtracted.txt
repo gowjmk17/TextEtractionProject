@@ -1,25 +1,26 @@
 INVOICEs
-Invoice #: 7456374 Bill To: XYZ Consulting Pvt Ltd Bill From: Envita Services Pvt LTD
-Date: July 20 2024 440, Shakthi Nagar, Gopalpura Bypass Road, Jaipur Rajasthan GST : AAAAXXXX555 Plot No 3&4, 2nd Floor SIRI Towers, Fourrts Avenue Thoraipakkam, Chennai — 600097
+Invoice #: 5082024 Bill To: SRK Paper Ltd. Bill From: Envita Services Pvt LTD
+Date: August 2 No. 52, Mohammad Street, IOB Plot No 3&4, 2nd Floor SIRI Towers,
+2024 Colony, Madurai, Tamil Nadu Fourrts Avenue Thoraipakkam, Chennai — 600097
 GSTIN: AAAXXXX555
-PAN NO : XXXXQWE55
+GST : AASS425Q PAN NO : XXXXQWE55
 ID Description Category Qty Price InTotal INR.
-1 Dell Laptop LPT 1 10000 10000
-2 HP Laptop LPT 2 30000 60000
-3 Monitors MTR 3 10000 30000
-4 Keyboard KB 2 1000 2000
-IGST @18% 1800 1800
-TOTAL 103800
+1 Dell Laptop DST 1 40000 40000
+2 Dell Wireless Mouse 1 1200 1200
+3 Dell Wireless Keyboard 1 1800 1800
+IGST @18% 7740 7740
+TOTAL 50740
 PLEASE MAKE PAYMENT TO
-Beneficiary Name : M/s. Envita Services Pvt LTD
-Beneficiary Account
-: 555555555
-Number
-Bank Name and
-Address
+Beneficiary Name
+: Ws. Envita Services Pvt LTD
+Beneficiary Account Number :
+Bank Name and Address
+Bank Swift Code
+IFSC Code
+555555555
 : HDFC Bank Ltd
 No. 8, Rajendra Prasad Road,
 Nehru Nagar, Chrompet
 Chennai - 600044
-Bank Swift Code : HDFCINBBCHE
-IFSC Code : HDFC0000260
+: HDFCINBBCHE
+: HDFCOOOO26O
